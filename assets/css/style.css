@@ -2,6 +2,7 @@
 body {
 	margin: 0 auto;
 	background-color: #FAFAFA;
+	/*background-image: url("img/b.jpg");*/
 }
 
 
@@ -48,6 +49,7 @@ textarea {
 	border-radius: 1em;
 	border: 1em;
     margin: 2em auto;
+    
     
 }
 
